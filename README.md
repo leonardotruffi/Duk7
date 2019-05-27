@@ -1,2 +1,2 @@
 # Duk7
-Making a game
+this project is about to make a isometric game
